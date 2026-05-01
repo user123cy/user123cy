@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="ozzyBaby.jpg" width="100%" alt="Ozzy Osbourne Banner">
+  <img src="ozzyBaby" width="100%" alt="Ozzy Osbourne Banner">
 
   <h1> Cauã | Low-Level Dev & Math Student </h1>
 </div>
