@@ -5,13 +5,10 @@
 </div>
 
 ### Sobre Mim
-- Estudando **Assembly x86** e **C**.
-- Treinando para a **OBMEP** e concursos.
-- Começando na **Calistenia** (foco no ganho de massa) :(.
+- Estudando **C**.
 - Curto um Rock
 
 ### Tecnologias e Estudos
-![Assembly](https://img.shields.io/badge/Assembly-00599C?style=for-the-badge&logo=assembly&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Math](https://img.shields.io/badge/Matemática-black?style=for-the-badge&logo=moo&logoColor=white)
 
