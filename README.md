@@ -1,19 +1,107 @@
 <div align="center">
-  <img src="ozzyBaby" width="100%" alt="Ozzy Osbourne Banner">
 
-  <h1> Cauã | Low-Level Dev & Math Student </h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Hallobu&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=rust%20%2F%20systems%20%2F%20software&descAlignY=58&descSize=18" width="100%"/>
+
+### rust developer • systems • software
+
+`Rust` `Python` `C` `Java` `SQL` `PostgreSQL`
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Hallobu)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust\&logoColor=white)](https://www.rust-lang.org/)
+[![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge\&logo=linux\&logoColor=white)](https://www.linux.org/)
+
 </div>
 
-### Sobre Mim
-- Estudando **C**.
-- Curto um Rock
+---
 
-### Tecnologias e Estudos
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Math](https://img.shields.io/badge/Matemática-black?style=for-the-badge&logo=moo&logoColor=white)
+```rust
+fn main() {
+    println!("hello, world!");
+
+    // started with Rust
+    // still learning how everything works underneath
+}
+```
+
+## about
+
+I started programming with **Rust** about 2 years ago.
+It was my first language and where I built most of my programming logic.
+
+Nowadays I'm studying **C and Java**, while using **Python, SQL and PostgreSQL** in projects.
+
+I like working on things where I actually have to understand what's happening instead of just putting libraries together until it works.
 
 ---
+
+## stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### languages
+
+<img src="https://skillicons.dev/icons?i=rust,python,c,java&theme=dark" />
+
+<br><br>
+
+**Rust** main language
+**Python** intermediate
+**C** currently studying
+**Java** currently studying
+
+</td>
+
+<td valign="top" width="50%">
+
+### tools & data
+
+<img src="https://skillicons.dev/icons?i=postgres,docker,git,linux&theme=dark" />
+
+<br><br>
+
+**SQL** intermediate
+**PostgreSQL** intermediate
+**Git** daily use
+**Docker** development & environments
+
+</td>
+</tr>
+</table>
+
+---
+
+## github
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=user123cy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=user123cy&layout=compact&langs_count=7&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hallobu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hallobu&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Hallobu&theme=github-dark-blue&hide_border=true&background=0D1117" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Hallobu/Hallobu/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+made with rust, caffeine and questionable decisions
+```
+
 </div>
