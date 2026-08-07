@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Hallobu&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=rust%20%2F%20systems%20%2F%20software&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=S2mpletista&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=rust%20%2F%20systems%20%2F%20software&descAlignY=58&descSize=18" width="100%"/>
 
 ### rust developer • systems • software
 
@@ -8,7 +8,7 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Hallobu)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/S2mpletista)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust\&logoColor=white)](https://www.rust-lang.org/)
 [![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge\&logo=linux\&logoColor=white)](https://www.linux.org/)
 
